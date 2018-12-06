@@ -23,7 +23,8 @@ html, body {
     min-width: 100vw;
     overflow: hidden;
     */
-    background-image: url("/img/sustainable-cities-fs.jpg");
+    "/img/well/"
+    background-image: url("/img/well.jpg");
     /* Full height */
     height: 100%; 
     /* Center and scale the image nicely */
